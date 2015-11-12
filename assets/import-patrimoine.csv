@@ -1,0 +1,14 @@
+siteRef (*);siteLabel;siteType (*);num;way;zip (*);city (*);country (*);complement;lat;lon;partRef (* pour parties);door;level;portion (* pour parties);comment
+SITE-DEMO;Site de démonstration;collective;1;rue des Pénitents Blancs;31000;Toulouse;FR;Bâtiment A;43.6015807;1.4498585999999705;;;;;Site n°1 (bâtiment d’habitation collectif)
+SITE-DEMO;Site de démonstration;collective;1;rue des Pénitents Blancs;31000;Toulouse;FR;Bâtiment A;43.6015807;1.4498585999999705;PART-DEMO-1;101;r+1;privatePortion;Partie privative  n°1 (dans le Site n° 1)
+SITE-DEMO;Site de démonstration;collective;1;rue des Pénitents Blancs;31000;Toulouse;FR;Bâtiment A;43.6015807;1.4498585999999705;PART-DEMO-2;102;r+1;privatePortion;Partie privative  n°2
+SITE-DEMO;Site de démonstration;collective;1;rue des Pénitents Blancs;31000;Toulouse;FR;Bâtiment A;43.6015807;1.4498585999999705;PART-DEMO-3;201;r+2;privatePortion;Partie privative  n°3
+SITE-DEMO;Site de démonstration;collective;1;rue des Pénitents Blancs;31000;Toulouse;FR;Bâtiment A;43.6015807;1.4498585999999705;PART-DEMO-4;202;r+2;privatePortion;Partie privative  n°4
+SITE-DEMO;Site de démonstration;collective;1;rue des Pénitents Blancs;31000;Toulouse;FR;Bâtiment A;43.6015807;1.4498585999999705;PART-DEMO-5;301;r+3;privatePortion;Partie privative  n°5
+SITE-DEMO;Site de démonstration;collective;1;rue des Pénitents Blancs;31000;Toulouse;FR;Bâtiment A;43.6015807;1.4498585999999705;PART-DEMO-6;302;r+3;privatePortion;Partie privative  n°6
+SITE-DEMO;Site de démonstration;collective;1;rue des Pénitents Blancs;31000;Toulouse;FR;Bâtiment A;43.6015807;1.4498585999999705;PART-DEMO-7;401;r+4;privatePortion;Partie privative  n°7
+SITE-DEMO;Site de démonstration;collective;1;rue des Pénitents Blancs;31000;Toulouse;FR;Bâtiment A;43.6015807;1.4498585999999705;PART-DEMO-8;402;r+4;privatePortion;Partie privative  n°8
+SITE-DEMO;Site de démonstration;collective;1;rue des Pénitents Blancs;31000;Toulouse;FR;Bâtiment A;43.6015807;1.4498585999999705;PART-DEMO-9;501;r+5;privatePortion;Partie privative  n°9
+SITE-DEMO;Site de démonstration;collective;1;rue des Pénitents Blancs;31000;Toulouse;FR;Bâtiment A;43.6015807;1.4498585999999705;PART-DEMO-10;502;r+5;privatePortion;Partie privative n°10
+SITE-DEMO;Site de démonstration;collective;1;rue des Pénitents Blancs;31000;Toulouse;FR;Bâtiment A;43.6015807;1.4498585999999705;PART-DEMO-GAINE-TECH-1;;rdc;commonPortion;Partie commune n°1
+SITE-DEMO-MAISON;Maison de Bildin;individual;3;rue des Pénitents Blancs;31000;Toulouse;FR;;;;PART-DEMO-MAISON;;rdc;privatePortion;Site n°2 (maison individuelle)

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+    <script src="{{ site.baseurl }}/js/lib/es6-promise.min.js"></script>
+    <script src="{{ site.baseurl }}/js/lib/jquery-1.11.3.min.js"></script>
+    <script src="{{ site.baseurl }}/js/lib/swagger-client.min.js"></script>
+    <script src="{{ site.baseurl }}/js/intentApi.js"></script>
+
+    <script>
+      window.intentApi.init({
+        host: 'api.hubintent.com',
+        baseUrl: 'https://api.hubintent.com/api-docs',
+        specs: [
+          '/shared-models',
+          '/datahub-activities',
+          '/datahub-parts',
+          '/datahub-sites',
+          '/datahub-streams',
+          '/datahub-data',
+          '/datahub-equips',
+          '/residentservices-contacts',
+          '/residentservices-classifieds',
+          '/devices',
+          '/states',
+          '/green-gestures'
+        ]
+      });
+    </script>
+
+  </body>
+
+</html>

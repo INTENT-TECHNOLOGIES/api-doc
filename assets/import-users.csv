@@ -1,0 +1,12 @@
+partRef (référence logement);firstname (*);lastname (*);email;phone;comment
+PART-DEMO-1;Albert;Marques;albert.marques@habitat-fictif.fr;06 10 68 66 35;Compte n°1
+PART-DEMO-2;Francis;Buisine;francis.buisine@habitat-fictif.fr;06 50 98 67 14;Compte n°2
+PART-DEMO-3;Grégory;Merlet;gregory.merlet@habitat-fictif.fr;06 90 60 45 14;Compte n°3
+PART-DEMO-4;Guillaume;Morvan;guillaume.morvan@habitat-fictif.fr;;Compte n°4 (sans téléphone)
+PART-DEMO-5;Cyril;Guery;;;Compte n°5 (sans e-mail)
+;Clemence;Scherrer;clemence.scherrer@habitat-fictif.fr;06 65 40 23 76;Compte n°6 (non affecté à un logement)
+;Elsa;Peyrard;;06 67 95 36 37;Compte n°7 (non affecté à un logement)
+;Marine;Anglade;;;Compte n°8 (non affecté à un logement)
+PART-DEMO-9;Olivia;Pollet;olivia.pollet@habitat-fictif.fr;06 25 58 99 63;Compte n°9
+PART-DEMO-10;Marie;Huart;marie.huart@habitat-fictif.fr;06 25 89 88 22;Compte n°10
+PART-DEMO-MAISON;Bildin;Intent;contact@intent-technologies.eu;+33 9 72 30 91 51;Compte n°11

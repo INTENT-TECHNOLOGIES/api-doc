@@ -1,0 +1,5 @@
+equipRef (*);equipLabel;equipType (*);equipNature (*);brand;serialNumber;inServiceDate;num;way;zip (* if nature = collective);city (* if nature = collective);country (* if nature = collective);complement;lat;lon;assetType (* si nature = private);assetRef (* si nature = private);siteRefs (* si nature = collective);comment
+BALLON-ECS-0001;Ballon ECS APPT 101;INDIVIDUAL_BOILER;private;;;;;;;;;;;;part;PART-DEMO-1;;Ballon ECS de l’appartement 101
+VMC-0001;VMC Site de démo;CMV;private;;;;;;;;;;;;site;SITE-DEMO-1;;VMC mono-site du site de démo
+ASC-0001;Ascenseur Site de démo;LIFT;private;Thyssen;TSN-KB102776;1447319321455;;;;;;;;;site;SITE-DEMO-1;;Ascenseur mono-site du site de démo
+CHAUFFERIE-0001;Chaufferie multisites Démo;COMMUNITY_BOILER;common;;;1438121372135;1 BIS;rue des Pénitents Blancs;31000;Toulouse;FR;Local Chaufferie;;;;;SITE-DEMO,SITE-DEMO-MAISON;Chaufferie multi-sites servant le bâtiment d’habitation collectif SITE-DEMO et la maison individuelle SITE-DEMO-MAISON. Elle est située au 1BIS, et sert les numéros 1 et 3 de la même rue

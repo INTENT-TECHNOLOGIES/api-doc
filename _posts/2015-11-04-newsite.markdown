@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Nouveau site Développeurs !"
+date:   2015-11-04 11:59:41
+categories: update
+---
+
+[Intent Technologies][intentsite] est fier de vous présenter son nouveau site développeurs !
+
+[intentsite]: http://www.intent-technologies.eu/
